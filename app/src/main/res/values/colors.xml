@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#0138fa</color>
+    <color name="purple_500">#0138fa</color>
+    <color name="purple_700">#0138fa</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#0138fa</color>
+    <color name="black">#FF1e1e1e</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="overWeight">#B00020</color>
+    <color name="perfect">#008b00</color>
+    <color name="underWeight">#f47100</color>
+</resources>
