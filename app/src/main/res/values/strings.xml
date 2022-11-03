@@ -6,4 +6,7 @@
     <string name="submit">Calculate BMI</string>
     <string name="result">Result</string>
     <string name="reset">Reset</string>
+    <string name="your_weight_in_kg">Your Weight in Kg</string>
+    <string name="your_height_in_feet">Your Height in Feet</string>
+    <string name="your_height_in_inch">Your Height in Inch</string>
 </resources>

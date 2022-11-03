@@ -7,7 +7,5 @@
     <color name="teal_700">#0138fa</color>
     <color name="black">#FF1e1e1e</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="overWeight">#B00020</color>
-    <color name="perfect">#008b00</color>
-    <color name="underWeight">#f47100</color>
+   <color name="green">#00F15E</color>
 </resources>
